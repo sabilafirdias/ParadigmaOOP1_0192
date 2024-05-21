@@ -6,4 +6,5 @@ class dokter;
 class pasien {
 public:
     string nama;
+    vector<dokter*> daftar_dokter;
     
