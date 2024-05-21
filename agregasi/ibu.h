@@ -25,4 +25,6 @@ void ibu::cetakAnak() {
 	for (auto& a : daftar_anak) {		//auto&: akan otomatis membaca tipe datanya serta panjang datanya
 		cout << a->nama << "\n";
 	}
-	
+	cout << endl;
+}
+#endif
