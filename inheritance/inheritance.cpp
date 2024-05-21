@@ -19,6 +19,10 @@ public:
     }
 };
 
+class pelajar : public orang {
+
+};
+
 int main()
 {
     std::cout << "Hello World!\n";
