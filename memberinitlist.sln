@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "komposisi", "komposisi\komp
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "agregasi", "agregasi\agregasi.vcxproj", "{AF7EA899-7BA2-4510-AA61-F20B116D337D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "asosiasi", "asosiasi\asosiasi.vcxproj", "{8B74F18C-DB87-40C9-9441-83A52EA11A4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{AF7EA899-7BA2-4510-AA61-F20B116D337D}.Release|x64.Build.0 = Release|x64
 		{AF7EA899-7BA2-4510-AA61-F20B116D337D}.Release|x86.ActiveCfg = Release|Win32
 		{AF7EA899-7BA2-4510-AA61-F20B116D337D}.Release|x86.Build.0 = Release|Win32
+		{8B74F18C-DB87-40C9-9441-83A52EA11A4E}.Debug|x64.ActiveCfg = Debug|x64
+		{8B74F18C-DB87-40C9-9441-83A52EA11A4E}.Debug|x64.Build.0 = Debug|x64
+		{8B74F18C-DB87-40C9-9441-83A52EA11A4E}.Debug|x86.ActiveCfg = Debug|Win32
+		{8B74F18C-DB87-40C9-9441-83A52EA11A4E}.Debug|x86.Build.0 = Debug|Win32
+		{8B74F18C-DB87-40C9-9441-83A52EA11A4E}.Release|x64.ActiveCfg = Release|x64
+		{8B74F18C-DB87-40C9-9441-83A52EA11A4E}.Release|x64.Build.0 = Release|x64
+		{8B74F18C-DB87-40C9-9441-83A52EA11A4E}.Release|x86.ActiveCfg = Release|Win32
+		{8B74F18C-DB87-40C9-9441-83A52EA11A4E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
